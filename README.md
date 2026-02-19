@@ -1,5 +1,5 @@
 # Von der Idee zur Automatisierung: Claudias KI-Workflow
-Ein Erfahrungsbericht über den Einsatz von Copilot & Visual Studio bei AFRY
+Ein Erfahrungsbericht über den Einsatz von Copilot & Visual Studio bei AFRY.
 
 Dieses Projektarchiv sammelt meine persönlichen Erfahrungen mit GitHub Copilot, Visual Studio und meinen ersten Schritten in Richtung Automatisierung.
 
