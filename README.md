@@ -10,7 +10,7 @@ Ich habe keine Programmierausbildung, sondern lerne alles „unterwegs“ mit Un
 
 Hier findest du die detaillierten Berichte zu meinen Projekten und Erkenntnissen. Klicke einfach auf die Links, um die Seiten zu öffnen:
 
-* **[🌱 Meine persönliche Geschichte](./AFRY_Meine%20persönliche%20Projektbeschreibung.md)**
+* **[🌱 Meine persönliche Geschichte](./AFRY_Meine_persönliche_Projektbeschreibung.md)**
     *Wie ich ohne Programmierkenntnisse ins kalte Wasser gesprungen bin und was im "Lernlabor" AFRY-Einarbeitung passiert ist.*
 
 * **[💻 AutoCAD-LISP Projekt](./AutoCAD‑LISP‑Projekt.md)**
