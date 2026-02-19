@@ -87,18 +87,7 @@ Und dann kam der Teil:
 Und da wurde es schwer.  
 Sehr schwer.
 
-Dann kam der Punkt, an dem mir klar wurde:
-
-> „Ich habe Visual Studio noch gar nicht richtig verstanden.“
-
-Ich legte das Projekt erstmal zur Seite, um mich weiterzuentwickeln.
-
----
-
-## 🧩 Die kleinen Projekte zwischendurch
-
-Ich wollte weiter üben – aber nicht mit großen Programmen, sondern mit kleinen Aufgaben.  
-Daraus entstand der Ordner **AFRY_Einarbeitung**.
+Ich wollte weiter üben – und lies den Ordner **AFRY_Einarbeitung** weiter wachsen und er füllte sich.
 
 Darin liegen mehrere kleine Python‑Skripte, die ich ausprobiert habe:
 
@@ -113,6 +102,26 @@ Diese Skripte sind teilweise chaotisch, teilweise genial – KI hat geholfen, ab
 Es war ein Lernlabor.  
 Ein Spielplatz.  
 Und genau das sieht man den Dateien an.
+
+Dann kam der Punkt, an dem mir klar wurde:
+
+> „Ich habe Visual Studio noch gar nicht richtig verstanden.“
+
+Ich legte das Projekt erstmal zur Seite, um mich weiterzuentwickeln.
+
+---
+
+## 🧩 Die kleinen Projekte zwischendurch
+
+DWG‑Z‑Analyse  
+
+Ich wurde geben, viele dwg auf ihre Inhalte mit Z Koordinaten zu überprüfen. Ich hatte wenig Zeit und nahm Visual Studios zur Hilfe. Ich wieß an, die Dwg zu auf das Vorhandensein von Objekten auf der Z koordinate zu überprüfen und mir dieses anhand einer Excel darzustellen. 
+
+mein PC arbeitete und auf dem Bildschirm konnte ich beobachten wie eine dwg nach der anderen geöffnet und geshclossen wurd. 
+
+Das Skipt erstelle mir eine Excel inhatlich auf den ersten Blick vollständig. ich begann Stichprobemäßig alles die ersten dwg zu überprüfen und bemerkte erste fehler. Dem Programm war es nciht möglich einzelne Objekte zu nehmen und zu überprüfen ob diese auf der Z leigen. Die KI erstelle mir die Vorarbeit, eine excel und ich überprüfte alles manuell. Das nächste mal weiß ich, dass ich dem Skript beifügen werd die überprüften dwg offen zu lassen, denn hiewr liegt dann wieder die Zeitersparnis.
+
+KI nimmt nicht die Arbeit ab, es kann mir eine erstparnis schaffen 
 
 ---
 
