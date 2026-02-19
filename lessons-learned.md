@@ -1,23 +1,30 @@
-# 💡 Lessons Learned – Meine Erfahrungen mit GitHub Copilot
+# 💡 Lessons Learned: KI & Automatisierung
 
-Dieses Dokument fasst meine wichtigsten Erkenntnisse aus der täglichen Arbeit mit **GitHub Copilot**, **Visual Studio** und verschiedenen Automatisierungsprojekten zusammen.  
-Es soll Kolleginnen und Kollegen helfen, Copilot realistisch einzuschätzen und produktiv einzusetzen.
+Dieses Dokument fasst meine Erfahrungen mit **GitHub Copilot** und **Visual Studio** zusammen. Es dient als Leitfaden für den realistischen und produktiven Einsatz in unseren Projekten.
 
 ---
 
-# 🚀 1. Copilot ist ein starkes Werkzeug – aber kein Autopilot
+### 🖥️ Visual Studio: Das Kraftwerk
+Visual Studio ist der Ort, an dem die echte Leistung entsteht. Hier erstelle ich direkt Skripte, `.exe`-Dateien oder Apploads.
 
-Copilot kann:
+* **Vorbereitung ist alles:** Bevor ich Visual Studio öffne, muss ich präzise wissen: Was will ich erreichen? Welche Ressourcen brauche ich? Ist die Automatisierung an dieser Stelle wirklich notwendig?
+* **Hohe Output-Qualität:** Wenn das Ziel klar definiert ist, ermöglicht Visual Studio eine extrem schnelle Umsetzung komplexer Tools.
 
-- Codeblöcke schnell vervollständigen  
-- Standardlogik effizient generieren  
-- Vorschläge machen, die als Inspiration dienen  
-- repetitive Aufgaben beschleunigen  
+---
 
-Aber:
+### 🤖 GitHub Copilot: Der smarte Assistent
+Copilot ist ein starkes Werkzeug, aber kein Autopilot. Er liefert den Rohbau, den ich fachlich prüfen muss.
 
-- Copilot **versteht nicht immer den Kontext**  
-- fachliche Regeln (z. B. aus BIM, DWG, LISP) sind ihm oft unbekannt  
+* **Stärken:** Schnelles Vervollständigen von Code, Inspiration für Logik und Beschleunigung von Routineaufgaben.
+* **Grenzen:** Copilot kennt unsere internen BIM- oder Fachregeln nicht. Komplexe Abläufe sind oft unvollständig oder fehlerhaft.
+* **Prompts:** Gute Ergebnisse erfordern präzise Anweisungen (Kontext, Ziel, Warum).
+
+---
+
+### 🐞 Fehler als Lernchance
+Copilot „halluziniert“ manchmal (erfindet Funktionen). Diese Momente sind wertvoll:
+* Sie zeigen mir, ob ich die Logik selbst verstanden habe.
+* Sie
 - komplexe logische Abläufe werden häufig falsch oder unvollständig erzeugt  
 
 **Fazit:**  
