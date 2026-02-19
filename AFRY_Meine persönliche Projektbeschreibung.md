@@ -1,4 +1,4 @@
-# 🧰 Python-Skripte im Ordner "AFRY_Einarbeitung"
+# 🧰 Python‑Skripte im Ordner „AFRY_Einarbeitung“
 Meine persönliche Geschichte, mein Weg und meine Erfahrungen
 
 ---
@@ -10,7 +10,6 @@ Angefangen hat alles in meiner Ausbildungszeit:
 Ich wollte Präsentationen für die Berufsschule besser strukturieren und nutzen – und KI war dafür perfekt.
 
 Ich habe Tools wie ChatGPT und Gemini genutzt, um:
-
 - meine Gedanken zu ordnen  
 - Präsentationen mit Prezi aufzubauen  
 - Texte klarer und verständlicher zu formulieren  
@@ -24,22 +23,20 @@ Irgendwann kam ich dann an Visual Studio – und da begann ein kleines Abenteuer
 
 ## 🖥️ Visual Studio – mein Sprung ins kalte Wasser
 
-Im November 2025 habe ich Visual Studio kennengelernt.
+Im **November 2025** habe ich Visual Studio kennengelernt.
 
 Und ganz ehrlich:
 
 **Ich hatte keine Ahnung vom Programmieren.**  
-Ich wusste nur, dass „Python eine Programmiersprache ist“.  
-Mehr nicht.
+Ich wusste nur, dass „Python eine Programmiersprache ist“. Mehr nicht.
 
 Trotzdem habe ich mich reingetraut.  
 Ich wollte ausprobieren, wie weit man ohne Vorwissen kommt, wenn man KI wie Copilot an der Seite hat.
 
-Mein erstes „Projekt“ war ein Tool, um Projektdateien zu finden.
-
+Mein erstes „Projekt“ war ein Tool, um Projektdateien zu finden.  
 Am Ende stellte ich fest:
 
-➡️ **Der Windows Dateiexplorer konnte das längst – ich hatte ihn nur falsch verwendet.**
+➡️ **Der Windows‑Dateiexplorer konnte das längst – ich hatte ihn nur falsch verwendet.**
 
 Das war mein erstes großes Learning:
 
@@ -47,9 +44,9 @@ Das war mein erstes großes Learning:
 
 ---
 
-## 🧰 Und dann kam die Idee für die AFRY-Einarbeitung
+## 🧰 Und dann kam die Idee für die AFRY‑Einarbeitung
 
-In der damaligen Abteilung BTA hatten wir immer wieder das gleiche Problem:
+In der damaligen Abteilung **BTA** tauchte immer wieder das gleiche Problem auf:
 
 - Neue Kolleginnen brauchen Zeit, um alles zu verstehen  
 - Die Einarbeitung kostet viel Aufwand  
@@ -61,36 +58,30 @@ Ich wollte etwas bauen, das uns entlastet:
 👉 **Ein Einarbeitungstool, das auf dem Server liegt und immer gleich funktioniert.**
 
 Es sollte enthalten:
-
-- PDF-Dokumente  
+- PDF‑Dokumente  
 - Videos  
 - Ein kleines Quiz  
-- Eine klare Struktur, Schritt für Schritt  
+- Eine klare, übersichtliche Struktur  
 
-Das Ziel:
+**Ziele:**
+- Jede neue Kollegin kann selbstständig starten  
+- Der Firmenstandard bleibt erhalten  
+- Wissen geht nicht verloren, selbst wenn man mal nicht da ist
 
-➡️ Jede neue Kollegin kann selbstständig starten.  
-➡️ Der Firmenstandard bleibt erhalten.  
-➡️ Wissen geht nicht verloren, selbst wenn man mal nicht da ist.
-
-Ich begann in Visual Studio eine kleine `.exe` zu bauen.
-
+Ich begann in Visual Studio eine kleine `.exe` zu bauen.  
 Der Anfang war überraschend leicht.
 
 Und dann kam der Teil:
-
 - Bedienung  
 - Nutzerfreundlichkeit  
 - Übersichtlichkeit  
-- „Für alle verständlich machen“
+- „Es muss verständlich sein – für alle“
 
-Und da wurde es schwer.  
-Sehr schwer.
+Und da wurde es schwer. Sehr schwer.
 
-Ich wollte weiter üben – und lies den Ordner **AFRY_Einarbeitung** weiter wachsen und er füllte sich.
+Ich wollte weiter üben – und ließ den Ordner **AFRY_Einarbeitung** weiter wachsen.
 
 Darin liegen mehrere kleine Python‑Skripte, die ich ausprobiert habe:
-
 - `convert_json.py`  
 - `extrahiere_dokumente.py`  
 - `fix_quiz.py`  
@@ -113,50 +104,55 @@ Ich legte das Projekt erstmal zur Seite, um mich weiterzuentwickeln.
 
 ## 🧩 Die kleinen Projekte zwischendurch
 
-DWG‑Z‑Analyse  
+### DWG‑Z‑Analyse
 
-Ich wurde geben, viele dwg auf ihre Inhalte mit Z Koordinaten zu überprüfen. Ich hatte wenig Zeit und nahm Visual Studios zur Hilfe. Ich wieß an, die Dwg zu auf das Vorhandensein von Objekten auf der Z koordinate zu überprüfen und mir dieses anhand einer Excel darzustellen. 
+Ich wurde gebeten, viele **DWG‑Dateien** auf **Z‑Koordinaten** zu überprüfen.  
+Ich hatte wenig Zeit und nahm Visual Studio zur Hilfe.
 
-mein PC arbeitete und auf dem Bildschirm konnte ich beobachten wie eine dwg nach der anderen geöffnet und geshclossen wurd. 
+Ich wies die KI an, die DWG‑Dateien zu öffnen, zu prüfen, ob Objekte eine **Z‑Koordinate** haben, und mir das Ergebnis in einer **Excel‑Liste** darzustellen.
 
-Das Skipt erstelle mir eine Excel inhatlich auf den ersten Blick vollständig. ich begann Stichprobemäßig alles die ersten dwg zu überprüfen und bemerkte erste fehler. Dem Programm war es nciht möglich einzelne Objekte zu nehmen und zu überprüfen ob diese auf der Z leigen. Die KI erstelle mir die Vorarbeit, eine excel und ich überprüfte alles manuell. Das nächste mal weiß ich, dass ich dem Skript beifügen werd die überprüften dwg offen zu lassen, denn hiewr liegt dann wieder die Zeitersparnis.
+Mein PC arbeitete – und ich konnte beobachten, wie eine DWG nach der anderen geöffnet und geschlossen wurde.
 
-KI nimmt nicht die Arbeit ab, es kann mir eine erstparnis schaffen 
+Das Skript erstellte mir eine Excel, die auf den ersten Blick vollständig wirkte.  
+Dann begann ich Stichproben zu prüfen und bemerkte Fehler:
+
+- Das Script konnte einzelne Objekte nicht zuverlässig prüfen  
+- Viele DWG liefen einfach „durch“, ohne genau auszuwerten
+
+Die KI lieferte mir eine gute **Vorarbeit** — aber ich musste vieles **manuell nachprüfen**.
+
+**Für das nächste Mal nehme ich mit:**
+- Nur die DWG offen lassen/anzeigen, die Treffer haben  
+- So spare ich Zeit und konzentriere mich auf die wichtigen Dateien
+
+> **KI nimmt die Arbeit nicht vollständig ab.  
+> Aber sie schafft Zeitersparnis – wenn man sie richtig einsetzt.**
 
 ---
 
-## ⛰️ Meine Hürden
-
-Viele Probleme wiederholten sich:
+## ⛰️ Meine Hürden bis hierhin
 
 - Ich wusste nicht, wie Python überhaupt aufgebaut ist  
 - Copilot schlug Dinge vor, die nicht funktionierten  
-- Ich brauchte viel Zeit, um zu verstehen, was KI da für mich erzeugt  
+- Ich brauchte Zeit, um zu verstehen, was KI da für mich erzeugt  
 - Manche Dateien liefen nur halb, manche gar nicht  
-- Ich merkte: **Nur KI reicht nicht – ich brauche eigenes Verständnis**  
+- Ich merkte: **Nur KI reicht nicht – ich brauche eigenes Verständnis**
 
-Aber genau das war der Punkt.
-
-Diese Projekte waren nicht perfekt.  
-Sie sollten auch nicht perfekt sein.
-
-Sie waren **mein Weg hinein in das Thema Automatisierung**.
+Diese Projekte waren nicht perfekt und sollten es auch nicht sein.  
+Sie waren **mein Weg in das Thema Automatisierung**.
 
 ---
 
 ## 🤖 Wie Copilot mich unterstützt hat
 
 Copilot war für mich:
-
 - ein Übersetzer  
 - ein Erklärer  
 - ein Ideengeber  
 - manchmal ein Verwirrer  
 - manchmal ein Retter  
 
-Es gab Erfolgsmomente, aber auch viele Fehlversuche.
-
-Und beides gehört dazu.
+Es gab Erfolgsmomente, aber auch viele Fehlversuche – und beides gehört dazu.
 
 ---
 
@@ -167,23 +163,20 @@ Weil ich glaube:
 ✨ **Man muss nicht perfekt sein, um mit KI zu arbeiten.  
 Man muss nur bereit sein zu lernen.**
 
-Dieses Projekt ist keine Sammlung technischer Meisterwerke.  
+Dieses Projekt ist keine Sammlung technischer Meisterleistungen.  
 Es ist:
-
 - eine Reise  
 - ein Experiment  
-- ein persönliches Wachstum  
+- persönliches Wachstum  
 - ein Beweis, dass man ohne Vorwissen anfangen kann  
-- und dass KI ein Werkzeug ist, kein Ersatz für Verstehen
+- und dass KI ein Werkzeug ist — kein Ersatz für Verstehen
 
 ---
 
 ## 📌 Was als Nächstes kommt
 
-Ich werde in weiteren Dateien meine drei größeren Beispiele beschreiben:
-
-1. AutoCAD-LISP  
-2. DWG‑Z‑Analyse  
+Ich werde in weiteren Dateien meine zwei größeren Beispiele beschreiben:
+1. AutoCAD‑LISP    
 3. BIM‑PDF‑Auslesen  
 
 Jedes Projekt bekommt seine eigene Geschichte – mit Screenshots, meinen Gedanken und meinen Erfahrungen.
@@ -192,8 +185,8 @@ Jedes Projekt bekommt seine eigene Geschichte – mit Screenshots, meinen Gedank
 
 ## ❤️ Schlusswort
 
-Ich bin keine Programmiererin.
-
+Ich bin keine Programmiererin.  
 Aber mit KI, Neugier und Mut habe ich begonnen, Dinge zu bauen, die mir vorher unmöglich erschienen.
 
 Und genau das möchte ich weitergeben.
+``
