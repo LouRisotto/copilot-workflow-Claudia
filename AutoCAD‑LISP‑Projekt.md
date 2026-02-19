@@ -43,7 +43,7 @@ Dadurch wurde:
 - massiv in AutoCAD eingegriffen  
 
 Und dann habe ich mir Visual Studio „zerstellt“.  
-Ich dachte, ich wäre von der KI reglementiert worden, weil ich zu tief ins System eingreife.  
+Ich dachte, ich wäre von der IT-Abteilung reglementiert worden, weil ich zu tief ins System eingreife.  
 Später stellte sich heraus:
 
 ➡️ Ich hatte einfach nur eine Einstellung verändert.  
@@ -78,6 +78,9 @@ Das Datum sollte überall einheitlich geändert werden.
 
 Die Idee:  
 ➡️ Alle Layouts automatisch durchgehen lassen und das Datum aktualisieren.
+
+<img width="306" height="842" alt="image" src="https://github.com/user-attachments/assets/64216e91-26b2-4a45-8728-e027d2604341" />
+<img width="306" height="842" alt="image" src="https://github.com/user-attachments/assets/64216e91-26b2-4a45-8728-e027d2604341" />
 
 Mit KI war das grundsätzlich machbar – aber:
 
@@ -130,11 +133,13 @@ Ich habe gelernt:
 
 ## ⚠️ Wichtige Lektionen aus diesem Projekt
 
-- LISP ist eine eigene Welt  
-- AutoCAD ist sehr empfindlich gegenüber falschen Befehlen  
-- KI hilft, aber ersetzt keine Tests  
-- viele Vorschläge muss man korrigieren  
-- ein kleines funktionierendes Skript ist ein großer Erfolg  
+
+- LISP ist eine eigene kleine Welt  
+- AutoCAD reagiert sehr empfindlich auf falsche Befehle  
+- KI hilft – aber ersetzt keine Tests und kein Nachdenken  
+- Viele Vorschläge muss man korrigieren oder anpassen  
+- Ich muss klare und genaue Anweisungen/Prompts geben, sonst wird das Ergebnis unbrauchbar  
+- Je besser ich formuliere, desto besser arbeitet Copilot
 
 ---
 
@@ -143,10 +148,13 @@ Ich habe gelernt:
 Dieses Projekt hat mir gezeigt:
 
 - dass ich Automatisierung lernen kann  
-- dass ich nicht alles verstehen muss, um zu starten  
+- dass ich nicht alles verstehen muss, um anzufangen  
 - dass KI mir Mut gemacht hat, Neues auszuprobieren  
-- dass Fehler normal sind  
-- dass kleine Schritte große Wirkung haben  
+- dass Fehler normal sind und zum Lernprozess gehören  
+- dass kleine Schritte oft große Wirkung haben  
+- **wann ich Visual Studio brauche und wann Copilot mir hilft**  
+    - Visual Studio nutze ich, wenn ich etwas ausprobieren, testen oder „anfassen“ möchte  
+    - Copilot nutze ich, wenn ich Ideen brauche, Texte besser verstehen will oder einen ersten Vorschlag für Code haben möchte  
 
 Es war kein perfektes Projekt –  
 aber ein sehr wertvolles.
