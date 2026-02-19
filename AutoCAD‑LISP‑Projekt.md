@@ -66,7 +66,7 @@ Viele Objekte waren manuell falsch in den Layereinstellungen angepasst.
 Ziel war:  
 ➡️ Alle Objekte automatisch auf den richtigen Layer legen — auch innerhalb der verschachtelten Blöcke.
 
-Copilot half mir, die Grundstruktur zu erzeugen.  
+Copilot half mir, das Skript für die LISP zu erzeugen. und gab mir Anweisungen diese LISP per Appload in AutoCAD zu laden.
 Ich verstand nur einen Teil davon – aber es lief.
 
 ---
@@ -74,11 +74,11 @@ Ich verstand nur einen Teil davon – aber es lief.
 ### ✔️ DatumAktualisieren_AlleLayouts.lsp
 
 **Ausgangssituation:**  
-Über 20 Layouts mit Stempelfeld und Block mit Attributen.  
-Das Datum sollte überall einheitlich geändert werden.
+Über 20 Layouts mit Stempelfeld als Block mit Attributen.  
+Das Datum sollte überall bei dem gleichen definierten Attribut einheitlich angepasst werden.
 
 Die Idee:  
-➡️ Alle Layouts automatisch durchgehen lassen und das Datum aktualisieren.
+➡️Ein Befehl der alle Layouts automatisch durchgeht und das Datum im Attribute aktualisieren.
 
 <img width="306" height="842" alt="image" src="https://github.com/user-attachments/assets/64216e91-26b2-4a45-8728-e027d2604341" />
 
