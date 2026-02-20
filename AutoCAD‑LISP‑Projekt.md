@@ -98,7 +98,7 @@ Die Umsetzung war grundsätzlich machbar, aber sie erforderte eine kritische Pr�
 - Manche Vorschläge waren unvollständig.
 - Copilot hat teilweise Funktionen „erfunden“, die es in LISP gar nicht gibt.
 - Einige Befehle passten nicht exakt zu meiner AutoCAD‑Version.
-- Damit das LISP zuverlässig funktioniert, müssen **alle Attribute einheitliche Namen** haben – hier ist also Standardisierung entscheidend.
+- Damit das LISP zuverlässig funktioniert, müssen **alle Block-Namen und Attribute einheitliche Namen** haben – hier ist also Standardisierung entscheidend.
 
 > **Mein Fazit:** > KI kann die Erstellung von LISP-Routinen massiv unterstützen und Hürden abbauen – aber sie ersetzt nicht das Testen und das grundlegende Verständnis der AutoCAD-Befehle.
 
