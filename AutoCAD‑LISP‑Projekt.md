@@ -85,12 +85,7 @@ Ich verstand nur einen Teil davon – aber es lief.
 
 **Ergebnis - ein kleiner Einblick**
 
-
-[▶️ **Video abspielen**](./DatumAktualisieren_AlleLayouts.mp4)
-
-<a href="./DatumAktualisieren_AlleLayouts.mp4">
-  <img src="./screenshots/layout_update_thumb.png" width="650" style="border:2px solid #ccc; border-radius:6px;">
-</a>
+[<img src="./screenshots/layout_update_thumb.png" width="600">](./DatumAktualisieren_AlleLayouts.mp4)
 
 **Die Bilanz der Automatisierung:**
 
