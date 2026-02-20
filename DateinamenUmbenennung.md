@@ -1,7 +1,8 @@
 # 🗂️ Projekt: Dateinamen‑Umbenennung nach BIM‑Codierung
 
 **Status:** In Testphase  
-**Zeitraum:** 3 h  
+**ASK-Modus inkl. Fehlversuch: ca. 1h
+**OCR-Umsetzung (Agent):** ca. 1,5 h  
 **Tools:** Visual Studio, GitHub Copilot (ASK & AGENT), Python, PowerShell, OCR
 
 ---
@@ -32,7 +33,7 @@ Beispiel: Aus `Plan_ABC_123.pdf` wird `KDM_LST_2D_.....pdf`.
 
 ## ✍️ Meine Prompts (ASK‑Modus)
 
-> *(Hier kannst du deinen Original‑Prompt einkopieren – ich lasse den Beispiel‑Prompt zur Orientierung stehen.)*
+> *(Der Original‑Prompt lautet:)*
 
 Beispiel: Mein Freund, ich habe eine dwg, ich plotte den Plan in PDF. Im Plan befindet sich unten rechts ein Stempelfeld mit vielen Angaben. Unter anderem ist eine BIM-Datencodierung enthalten. Die BIM-Datencodierung hat die Struktur KDM_LST_2D_3_N_TLS-LP_006. Der Code steht eine Zeile unterhalb „BIM-Datencodierung“. Ich möchte ein Skript, das die PDF liest und die Datei automatisch nach diesem Code umbenennt. Jeder Code muss zusätzlich auf .Signallageplan enden.
 
