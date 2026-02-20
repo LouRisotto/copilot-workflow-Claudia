@@ -17,6 +17,9 @@ Hier findest du die detaillierten Berichte zu meinen Projekten und Erkenntnissen
 * **[💻 AutoCAD-LISP Projekt](./AutoCAD‑LISP‑Projekt.md)**
     *Meine Versuche, Routineaufgaben in AutoCAD zu automatisieren – inklusive der Lektion, dass KI auch manchmal Funktionen erfindet.*
 
+* **[💻 DateinamenUmbenennung](./DateinamenUmbenennung.md)**
+    **Automatisches Umbenennen von PDF‑Plänen über BIM‑Codierung – erste Schritte, Tests und Erfahrungen mit OCR und Copilot.* 
+
 * **[💡 Lessons Learned – Meine Erkenntnisse](./lessons-learned.md)**
     *Die wichtigste Zusammenfassung für die tägliche Arbeit: Warum Copilot kein Autopilot ist und wie man bessere Prompts schreibt.*
 
