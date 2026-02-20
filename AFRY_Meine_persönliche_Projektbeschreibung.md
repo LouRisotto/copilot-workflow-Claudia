@@ -177,7 +177,7 @@ Es ist:
 
 Ich werde in weiteren Dateien meine zwei größeren Beispiele beschreiben:
 1. [💻 AutoCAD-LISP Projekt](./AutoCAD‑LISP‑Projekt.md)  
-3. BIM‑PDF‑Auslesen  [💻 AutoCAD-LISP Projekt](./AutoCAD‑LISP‑Projekt.md)
+3. [💻 BIM‑PDF‑Auslesen](./DateinamenUmbenennung.md)
 
 Jedes Projekt bekommt seine eigene Geschichte – mit Screenshots, meinen Gedanken und meinen Erfahrungen.
 
