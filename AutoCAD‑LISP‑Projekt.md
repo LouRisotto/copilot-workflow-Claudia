@@ -85,7 +85,7 @@ Ich verstand nur einen Teil davon – aber es lief.
 
 **Ergebnis - ein kleiner Einblick**
 
-
+[![Video ansehen](./screenshots/layout_update_thumb.png)](./DatumAktualisieren_AlleLayouts.mp4)
 
 **Die Bilanz der Automatisierung:**
 
