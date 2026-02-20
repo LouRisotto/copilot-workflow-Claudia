@@ -59,6 +59,8 @@ Wie bekomme ich eine Lösung ohne manuell anpassungen?
 
 Beispiel: Mein Freund, ich habe eine dwg, ich plotte den Plan in PDF. Im Plan befindet sich unten rechts ein Stempelfeld mit vielen Angaben. Unter anderem ist eine BIM-Datencodierung enthalten. Die BIM-Datencodierung hat die Struktur KDM_LST_2D_3_N_TLS-LP_006. Der Code steht eine Zeile unterhalb „BIM-Datencodierung“. Ich möchte ein Skript, das die PDF liest und die Datei automatisch nach diesem Code umbenennt. Jeder Code muss zusätzlich auf .Signallageplan enden.
 
+<img width="1546" height="840" alt="image" src="https://github.com/user-attachments/assets/a1f2510a-ccf8-4821-8b31-7f99b0f01718" />
+
 **Zielanpassung:**
 
 - Falls Text‑Extrakt scheitert → **OCR** nutzen  
