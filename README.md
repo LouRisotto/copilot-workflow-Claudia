@@ -23,6 +23,9 @@ Hier findest du die detaillierten Berichte zu meinen Projekten und Erkenntnissen
 * **[💡 Lessons Learned – Meine Erkenntnisse](./lessons-learned.md)**
     *Die wichtigste Zusammenfassung für die tägliche Arbeit: Warum Copilot kein Autopilot ist und wie man bessere Prompts schreibt.*
 
+* **[🌱 Zukunftsprojekte_Mindmap](Zukunftsprojekte_Mindmap.md)**
+    *Meine Übersicht über alle zukünftigen Ideen und Projekte – von KI‑Automatisierung bis BIM‑Prüfungen und Plan‑Kollisionen*
+
 ---
 
 ## 🎯 Zweck vom Projektarchiv
