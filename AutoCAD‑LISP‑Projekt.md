@@ -88,7 +88,7 @@ Ich verstand nur einen Teil davon – aber es lief.
 
 [▶️ **Video abspielen**](./DatumAktualisieren_AlleLayouts.mp4)
 
-![Vorschaubild](./<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/d7fbb4ce-0bf6-4ba4-8461-3ac56f068811" />
+(./<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/d7fbb4ce-0bf6-4ba4-8461-3ac56f068811" />
 <img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/d7fbb4ce-0bf6-4ba4-8461-3ac56f068811" />
 )
 
