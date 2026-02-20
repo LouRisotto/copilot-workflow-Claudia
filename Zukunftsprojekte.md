@@ -2,6 +2,9 @@
 
 Diese Datei sammelt alle Projekte, die ich in Zukunft weiterführen oder neu starten möchte. Viele Ideen sind aus meiner täglichen Arbeit entstanden und sollen langfristig dazu beitragen, Abläufe zu vereinfachen, Wissen zu sichern und KI sinnvoll einzusetzen.
 
+* **[🌱 Zukunftsprojekte_Mindmap](./Zukunftsprojekte_Mindmap.md)**
+    *Wie ich ohne Programmierkenntnisse ins kalte Wasser gesprungen bin und was im "Lernlabor" AFRY-Einarbeitung passiert ist.*
+
 ---
 
 ## 🔄 Laufende Projekte, die weitergeführt werden
