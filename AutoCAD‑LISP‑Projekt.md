@@ -78,6 +78,10 @@ Ich verstand nur einen Teil davon – aber es lief.
 **Die Idee:** Ein einziger Befehl, der automatisch alle Layouts durchläuft und den Wert im Attribut aktualisiert, ohne jedes Layout einzeln öffnen zu müssen.
 
 <img width="306" height="842" alt="Screenshot der LISP-Logik" src="https://github.com/user-attachments/assets/64216e91-26b2-4a45-8728-e027d2604341" />
+<img width="323" height="552" alt="image" src="https://github.com/user-attachments/assets/11aa6a0a-2870-4bb0-ae3a-efa62f06a7c3" />
+<img width="292" height="682" alt="image" src="https://github.com/user-attachments/assets/447df573-754a-4c96-8e67-f6acd50fd1c3" />
+<img width="278" height="682" alt="image" src="https://github.com/user-attachments/assets/77a0e2ac-b8db-434c-ab96-f82f5edd02d5" />
+<img width="272" height="660" alt="image" src="https://github.com/user-attachments/assets/dec20a2d-83eb-48b4-9211-3ee6bde4e164" />
 
 **Die Bilanz der Automatisierung:**
 
